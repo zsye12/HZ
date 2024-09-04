@@ -16,7 +16,7 @@ https://test.zapi.us.kg/?id=bbc-world-news
 #EXTINF:-1 group-title="国际✈️",BBC 新闻
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际✈️",翡翠台
-http://119.129.172.80:8081/hls/20/index.m3u8
+http://223.244.26.190:8082/%E7%BF%A1%E7%BF%A02-%E7%9B%97%E6%BA%90%E6%AD%BB%E5%85%A8%E5%AE%B6/%E6%98%93%E7%99%BCTV%E4%B8%93%E7%94%A8/hls.m3u8
 #EXTINF:-1 group-title="国际✈️",明珠台
 http://119.129.172.80:8081/hls/21/index.m3u8
 #EXTINF:-1 group-title="国际✈️",BesTV
