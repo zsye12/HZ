@@ -3,18 +3,8 @@
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 #EXTINF:-1 group-title="国际✈️",半岛新闻英语
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
-#EXTINF:-1 group-title="国际✈️",澎博财经
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
-#EXTINF:-1 group-title="国际✈️",newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="国际✈️",BBC Earth
-https://test.zapi.us.kg/?id=bbcearth
-#EXTINF:-1 group-title="国际✈️",NBC Sports Boston
-https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 group-title="国际✈️",BBC 世界新闻
-https://test.zapi.us.kg/?id=bbc-world-news
-#EXTINF:-1 group-title="国际✈️",BBC 新闻
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="国际✈️",中国国际电视台
+http://pi.0472.org/tv/cbn.php?id=xfjcHD
 #EXTINF:-1 group-title="国际✈️",翡翠台
 http://223.244.26.190:8082/%E7%BF%A1%E7%BF%A02-%E7%9B%97%E6%BA%90%E6%AD%BB%E5%85%A8%E5%AE%B6/%E6%98%93%E7%99%BCTV%E4%B8%93%E7%94%A8/hls.m3u8
 #EXTINF:-1 group-title="国际✈️",明珠台
@@ -69,6 +59,34 @@ http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
 http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
 #EXTINF:-1 group-title="大香蕉🌶_965,#genre#",俄罗斯成人1台
 http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="俄罗斯",梁赞市
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="俄罗斯",Ю
+https://edge02.odtv.az/o3/utv/playlist.m3u8
+#EXTINF:-1 group-title="俄罗斯",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 group-title="俄罗斯",Мир 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="美国",VOA美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 group-title="美国",VOA TV Africa (1080p)非洲
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 group-title="美国",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="美国",newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="美国",BBC Earth
+https://test.zapi.us.kg/?id=bbcearth
+#EXTINF:-1 group-title="美国",NBC Sports Boston
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 group-title="美国",BBC 世界新闻
+https://test.zapi.us.kg/?id=bbc-world-news
+#EXTINF:-1 group-title="美国",BBC 新闻
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="美国",澎博财经
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+#EXTINF:-1 group-title="外国",Voice of Lebanon黎巴嫩之声
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="外国",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="外国",CNN
