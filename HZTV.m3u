@@ -10,7 +10,7 @@ http://223.244.26.190:8082/%E7%BF%A1%E7%BF%A02-%E7%9B%97%E6%BA%90%E6%AD%BB%E5%85
 #EXTINF:-1 group-title="国际✈️",明珠台
 http://119.129.172.80:8081/hls/21/index.m3u8
 #EXTINF:-1 group-title="国际✈️",BesTV
-http://118.122.2.29:9999/hls/60/index.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 group-title="国际✈️",rehber
 https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
 #EXTINF:-1 group-title="国际✈️",日本テレビ
@@ -36,7 +36,11 @@ http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="国际✈️",泰国Channel 7
 http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
 #EXTINF:-1 group-title="国际✈️",欧洲华文8套
-https://livefr.cgtn.com/1000f/prog_index.m3u8	
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="国际✈️",CCTV4欧洲
+https://tv.iill.top/migu/cctv4o
+#EXTINF:-1 group-title="国际✈️",CCTV4美洲
+https://tv.iill.top/migu/cctv4m
 #EXTINF:-1 group-title="其他",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="其他",菲律宾国际
@@ -205,5 +209,7 @@ https://jmp2.uk/SamsungTVPlus/GBBD25000038Y.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="外国",Billiards TV 
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="外国", test33 TV 
-http://223.244.26.190:8082/%E7%BF%A1%E7%BF%A02-%E7%9B%97%E6%BA%90%E6%AD%BB%E5%85%A8%E5%AE%B6/%E6%98%93%E7%99%BCTV%E4%B8%93%E7%94%A8/hls.m3u8
+#EXTINF:-1 group-title="外国", Red Bull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="外国", 今日俄罗斯纪实
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
